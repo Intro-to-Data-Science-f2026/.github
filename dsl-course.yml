@@ -2,5 +2,5 @@
 # classroom-config dispatchers (dispatch-sync / dispatch-sync-site) to find where
 # to fire Sync membership / Sync site. Identity + schedule live elsewhere (the
 # course org's dsl-course.yml and this cohort's classroom-config/schedule.yml).
-course: Intro-to-Data-Science-E1339
+course: intro-to-data-science-c11
 org: Intro-to-Data-Science-f2026
