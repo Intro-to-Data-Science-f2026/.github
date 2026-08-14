@@ -24,5 +24,8 @@ org; updates on every release.
 | [classroom-config](https://github.com/Intro-to-Data-Science-f2026/classroom-config) | private | PRIVATE cohort config - roster (students.csv). No PII leaves here. |
 | [intro-to-data-science-f2026.github.io](https://github.com/Intro-to-Data-Science-f2026/intro-to-data-science-f2026.github.io) | public | Course website (auto-deployed on push) |
 
+_Teaching staff (instructors, TAs, faculty assistants): your action buttons aren't here - they live in the
+parent **course org's** `.github` control panel, on its Actions tab._
+
 ---
 _Hertie Data Science Lab. This page is auto-generated._
